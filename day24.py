@@ -11,6 +11,20 @@ DAY = {
     },
     "cards": [
         {
+            "tag": "MIDDLE EAST",
+            "icon": "ship",
+            "headline": "Three tankers ablaze in Hormuz as Iran digs in",
+            "summary": "Iran says three tankers hit mines and caught fire in the "
+                       "strait; Tehran refuses talks.",
+        },
+        {
+            "tag": "GAZA",
+            "icon": "flame",
+            "headline": "Israeli strike kills Hamas security chief",
+            "summary": "A strike in Gaza City killed Naeem Abu Nahel, head of "
+                       "Hamas internal security, and six others.",
+        },
+        {
             "tag": "NATO",
             "icon": "satellite",
             "headline": "NATO vows space defence over Russian satellite",
@@ -24,24 +38,10 @@ DAY = {
             "summary": "Kurtaj, 21, hacked Rockstar from a hotel room with a phone "
                        "and a Fire TV stick.",
         },
-        {
-            "tag": "ASIA",
-            "icon": "jet",
-            "headline": "South Korea scrambles jets over Russian warplanes",
-            "summary": "Seoul sent up fighter jets as Russian military aircraft entered "
-                       "its air defence zone.",
-        },
-        {
-            "tag": "DENMARK",
-            "icon": "phone",
-            "headline": "Denmark to ban school phones up to 10th grade",
-            "summary": "Phones will be pulled from classrooms up to 10th grade after "
-                       "poor PISA results.",
-        },
     ],
     "ticker": [
-        "UN: wars put food aid for 7.3M at risk",
-        "Bomb threats hit hundreds of German schools",
-        "Israel: Eisenkot has until Dec 6 to form a government",
+        "Hanoi blast kills 6, injures a dozen more",
+        "UK recognises Myanmar's genocide of Rohingya",
+        "Seoul pays bounties to catch AI exam cheats",
     ],
 }
